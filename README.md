@@ -20,6 +20,11 @@ A multi-tool, agentic AI assistant powered by [Model Context Protocol (MCP)](htt
   - _"Open MakeMyTrip website"_
 
 ---
+## Output
+![Screenshot 2025-08-02 172623](https://github.com/user-attachments/assets/600d7e15-caab-4377-9c3a-59a63b0a4f60)
+
+![Screenshot 2025-08-02 172730](https://github.com/user-attachments/assets/c52bdbd0-f2b6-474d-9604-83211c8ae5f0)
+---
 
 ## Prerequisites
 
@@ -53,3 +58,8 @@ GROQ_API_KEY=your-groq-api-key
 
 # Step 5:
 uv run app.py
+
+
+
+
+
